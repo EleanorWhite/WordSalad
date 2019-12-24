@@ -1,1 +1,5 @@
+## How to run
+
+Go to the "Clone or download" button in the top right corner of github, press it, and choose the "Download ZIP" option. Extract the files in it to a folder, and then go to that folder on the command line. From there, run "python3 solve.py".
+
 List of english words taken from the repository here: https://github.com/dwyl/english-words
